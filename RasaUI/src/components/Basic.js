@@ -121,7 +121,6 @@ function Basic(){
                         {botTyping ? <h6>Bot Typing....</h6> : null}
                         
                         
-                        
                     </div>
                     <div className="cardBody" id="messageArea" style={styleBody}>
                         
